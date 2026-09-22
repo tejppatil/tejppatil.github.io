@@ -23,7 +23,7 @@ export const education = [
     school: "Rashtriya Raksha University",
     degree: "B.Tech in CSE, specialization in Cyber Security",
     period: "Aug 2023 – Present",
-    detail: "CGPA: 7.73",
+    detail: "CGPA: 7.83",
   },
   {
     school: "Shivsai Universal Jr. College, Buldana",
