@@ -45,7 +45,7 @@ export const experience = [
     role: "Cybersecurity Intern",
     period: "Feb 2026 – Apr 2026",
     points: [
-      "Working with the NCTAU team to support cyber threat analysis and monitoring.",
+      "Worked with the NCTAU team to support cyber threat analysis and monitoring.",
       "Assisting in controlled vulnerability assessment and penetration testing (VAPT) activities.",
       "Supporting threat hunting and security analysis under guidance of senior analysts.",
       "Gaining exposure to national-level cybercrime coordination workflows.",
@@ -259,7 +259,7 @@ export const leadership = [
   },
   {
     role: "President",
-    org: "Eventique - Event Club, Rashtriya Raksha University",
+    org: "Eventique - Event Management Club, Rashtriya Raksha University",
     period: "Jan 2026 – Present",
   },
 ];
